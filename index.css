@@ -572,7 +572,7 @@ margin-bottom: 1rem;
  }
  .one-single-link
  {
-     margin-right: 1rem;
+     margin: 0 0.5rem; 
      text-transform: capitalize;
      font-size: 1rem;
      color: var(--mainwhite);
